@@ -1,8 +1,8 @@
 # [zpinyin](https://www.npmjs.com/package/zpinyin)
-<!-- [![](https://img.shields.io/badge/Powered%20by-jslib%20base-brightgreen.svg)](https://github.com/The-End-Hero/search-util) -->
+<!-- [![github](https://img.shields.io/badge/Powered%20by-jslib%20base-brightgreen.svg)](https://github.com/zhhcho/zpinyin) -->
 <!-- [![license](https://img.shields.io/badge/license-ISC-blue.svg)](https://github.com//The-End-Hero/search-util/blob/master/LICENSE) -->
 <!-- [![Build Status](https://travis-ci.org/xiping.wang/search-util.svg?branch=master)](https://travis-ci.org/xiping.wang/search-util) -->
-[![npm](https://img.shields.io/badge/npm-1.1.4-orange.svg)](https://www.npmjs.com/package/zpinyin)
+[![npm](https://img.shields.io/badge/npm-1.1.7-orange.svg)](https://www.npmjs.com/package/zpinyin)
 
 ## 前言
 
@@ -20,7 +20,8 @@ zpinyin轻量级前端拼音模糊检索插件
 + 不区分大小写的查询
 + 全拼查询  
 
-[在线演示：http://zhhcho.com:3012/](http://zhhcho.com:3012/)
+[在线演示：http://zhhcho.com:3012/](http://zhhcho.com:3012/)  
+<!-- [开源地址：https://github.com/zhhcho/zpinyin](https://github.com/zhhcho/zpinyin/) -->
 
 
 
